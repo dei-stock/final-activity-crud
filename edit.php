@@ -4,7 +4,7 @@
     <title>Edit Student Record</title>
     <style>
         body {
-            background-color: #F7CAC9; /* Rose Quartz */
+            background-color: #F7CAC9;
             font-family: Verdana, sans-serif;
             text-align: center;
             padding: 20px;
@@ -16,7 +16,7 @@
         p a,
         p a:hover {
             text-align: center;
-            color: #91A8D0; /* Serenity */
+            color: #91A8D0;
         }
 
         form {
@@ -43,7 +43,7 @@
         input[type="submit"] {
             width: 100%;
             padding: 10px 20px;
-            background-color: #6C5B7B; /* Rose Quartz */
+            background-color: #6C5B7B;
             color: white;
             border: none;
             border-radius: 5px;
@@ -52,7 +52,7 @@
         }
 
         input[type="submit"]:hover {
-            background-color: #9B59B6; /* Darker shade of Rose Quartz */
+            background-color: #9B59B6;
         }
 
         p {
@@ -63,7 +63,7 @@
             display: inline-block;
             padding: 10px;
             width: 200px;
-            background-color: #AF8260; /* Brown */
+            background-color: #AF8260;
             color: black;
             text-decoration: none;
             border-radius: 5px;
@@ -71,7 +71,7 @@
         }
 
         p a:hover {
-            background-color: #F7DCB9; /* Lighter shade of Rose Quartz */
+            background-color: #F7DCB9;
         }
 
         img {

@@ -4,7 +4,7 @@
     <title>Edit Student Record</title>
     <style>
         body {
-            background-color: #F7CAC9; /* Rose Quartz */
+            background-color: #F7CAC9;
             font-family: Verdana;
             text-align: center;
             margin-bottom: 20px;
@@ -14,7 +14,7 @@
         p a,
         p a:hover {
             text-align: center;
-            color: #91A8D0; /* Serenity */
+            color: #91A8D0;
             margin-bottom: 10px;
         }
 
@@ -36,12 +36,12 @@
         }
 
         th {
-            background-color: #AF8260; /* Darker shade of Serenity */
+            background-color: #AF8260;
             color: white;
         }
 
         tr:nth-child(even) {
-            background-color: #F7DCB9; /* Rose Quartz */
+            background-color: #F7DCB9;
         }
 
         form {
@@ -60,7 +60,7 @@
 
         input[type="submit"] {
             padding: 10px 20px;
-            background-color: #6C5B7B; /* Rose Quartz */
+            background-color: #6C5B7B;
             color: white;
             border: none;
             border-radius: 5px;
@@ -68,7 +68,7 @@
         }
 
         input[type="submit"]:hover {
-            background-color: #9B59B6; /* Darker shade of Rose Quartz */
+            background-color: #9B59B6;
         }
 
         img {
@@ -79,7 +79,6 @@
     </style>
 </head>
 <body>
-    <img src="student.png" alt="student icon" width="150" height="150">
     <?php
     $id = $_POST["id"];
 

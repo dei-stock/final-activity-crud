@@ -4,7 +4,7 @@
     <title>Search Student Record</title>
     <style>
         body {
-            background-color: #F7CAC9; /* Rose Quartz */
+            background-color: #F7CAC9;
             font-family: Verdana, sans-serif;
             text-align: center;
             padding: 20px;
@@ -15,7 +15,7 @@
         p,
         p a,
         p a:hover {
-            color: #91A8D0; /* Serenity */
+            color: #91A8D0;
         }
 
         form {
@@ -42,8 +42,8 @@
         input[type="submit"] {
             width: 100%;
             padding: 10px 20px;
-            background-color: #85C1E9; /* Serenity */
-            color: #FFFFFF; /* White */
+            background-color: #85C1E9;
+            color: #FFFFFF;
             border: none;
             border-radius: 5px;
             cursor: pointer;
@@ -51,7 +51,7 @@
         }
 
         input[type="submit"]:hover {
-            background-color: #5499C7; /* Darker shade of Serenity */
+            background-color: #5499C7;
         }
 
         p {
@@ -62,15 +62,15 @@
             display: inline-block;
             padding: 10px;
             width: 200px;
-            background-color: #F7CAC9; /* Rose Quartz */
-            color: #91A8D0; /* Serenity */
+            background-color: #F7CAC9;
+            color: #91A8D0;
             text-decoration: none;
             border-radius: 5px;
             transition: background-color 0.3s ease;
         }
 
         p a:hover {
-            background-color: #5499C7; /* Darker shade of Serenity */
+            background-color: #5499C7;
         }
 
         img {

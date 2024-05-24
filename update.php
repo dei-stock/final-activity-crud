@@ -4,22 +4,22 @@
     <title>Update Success!</title>
     <style>
         body {
-            background-color: #F7CAC9; /* Rose Quartz */
+            background-color: #F7CAC9;
             font-family: Verdana, sans-serif;
             text-align: center;
             margin-bottom: 20px;
-            color: #91A8D0; /* Serenity */
+            color: #91A8D0;
         }
 
         p,
         p a,
         p a:hover {
             text-align: center;
-            color: #91A8D0; /* Serenity */
+            color: #91A8D0;
         }
 
         input[type="submit"]:hover {
-            background-color: #5499C7; /* Darker shade of Serenity */
+            background-color: #5499C7;
         }
 
         p {
@@ -31,15 +31,15 @@
             display: inline-block;
             padding: 10px;
             width: 200px;
-            background-color: #F7CAC9; /* Rose Quartz */
-            color: #91A8D0; /* Serenity */
+            background-color: #F7CAC9;
+            color: #91A8D0;
             text-decoration: none;
             border-radius: 5px;
             transition: background-color 0.3s ease;
         }
 
         p a:hover {
-            background-color: #5499C7; /* Darker shade of Serenity */
+            background-color: #5499C7;
         }
 
         img {
@@ -50,7 +50,6 @@
     </style>
 </head>
 <body>
-    <img src="success.png" alt="success icon" width="150" height="150">
     <?php
     $id = $_POST["id"];
     $name = $_POST["name"];
